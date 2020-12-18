@@ -1,5 +1,5 @@
 # sparky
-IOS/IpasOS App
+IOS/IpadOS App
 
 Main: -> TestWorld -> ViewController.swift
 
