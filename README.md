@@ -1,4 +1,3 @@
 # sparky
-IOS/IpadOS App
+IOS/IpadOS App. Its a game where you can test your reaction speed.
 
-## Its a game where you can test your reaction speed.
